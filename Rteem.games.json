@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "665499186b1308d111266bd2"
+  },
+  "title": "Hogwarts Legacy",
+  "image": "https://cybersport.metaratings.ru/storage/images/b7/71/b77110b676485088275a437e27b42068.png",
+  "platphorms": "ПК, PS, Xbox, Switch",
+  "description": "Hogwarts Legacy (или «Хогвартс: Наследие») — большой ролевой экшен по вселенной «Гарри Поттера». Его события разворачиваются в конце XIX века и рассказывают о восстании гоблинов во главе с Ранроком и тёмным магом Виктором Руквудом. Вместе они попытаются завладеть артефактом, который ставит под угрозу существование всего волшебного сообщества.",
+  "rate": 85,
+  "age": "17",
+  "year": "2023",
+  "trailer": "https://www.youtube.com/embed/1O6Qstncpnc?si=QFH8XTWoGeInZ08J",
+  "comms": [],
+  "__v": 60,
+  "updatedAt": {
+    "$date": "2024-05-29T12:35:38.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665499186b1308d111266bd3"
+  },
+  "title": "Atomic Heart",
+  "image": "https://boiling-machine.ru/wp-content/uploads/4-1-11-scaled.webp",
+  "platphorms": "ПК, PS, Xbox",
+  "description": "Atomic Heart — это экшен от первого лица в чрезвычайно стильном сеттинге, где СССР после Второй мировой войны стал лидером в производстве роботов. События игры происходят в 1955 году, когда гениальный учёный Дмитрий Сеченов на пороге запуска «Коллектива 2.0» — программы по управлению роботами с помощью мысли.",
+  "rate": 78,
+  "age": "18",
+  "year": "2023",
+  "trailer": "https://www.youtube.com/embed/0UBiw1xkHl8?si=ZirCmozXQJNm7hy5",
+  "comms": [
+    {
+      "name": "Я собака ты собака",
+      "comm": "@@@@@@@@@@@@@@@@@@@@@"
+    },
+    {
+      "name": "Ipv6",
+      "comm": "Фу не правдоподобно"
+    },
+    {
+      "name": "Ipv4",
+      "comm": "Я полностью согласен с Ipv6"
+    }
+  ],
+  "__v": 10,
+  "updatedAt": {
+    "$date": "2024-05-29T12:28:53.637Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665499186b1308d111266bd4"
+  },
+  "title": "Spider-Man 2",
+  "image": "https://media.kg-portal.ru/games/s/spiderman2/posters/spiderman2_1.jpg",
+  "platphorms": "PS",
+  "description": "Сюжет игры развивается через девять месяцев после событий, описанных в спин-оффе о Майлзе Моралесе. В центре внимания сиквела находится дуэт Людей-пауков, объединяющих усилия для борьбы с преступностью в Нью-Йорке.",
+  "rate": 87,
+  "age": "13",
+  "year": "2023",
+  "trailer": "https://www.youtube.com/embed/9fVYKsEmuRo?si=NRpKygjfnWJZ0HAp",
+  "comms": [
+    {
+      "name": "Паук сенокосец",
+      "comm": "Прикольно, но можно было лучше"
+    },
+    {
+      "name": "ew",
+      "comm": "ew"
+    },
+    {
+      "name": "ew",
+      "comm": "ew"
+    }
+  ],
+  "__v": 16,
+  "updatedAt": {
+    "$date": "2024-05-29T12:34:52.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665499186b1308d111266bd5"
+  },
+  "title": "Assassin's Creed Mirage",
+  "image": "https://www.digiseller.ru/preview/990130/p1_3944250_077cca6c.png",
+  "platphorms": "ПК, PS, Xbox, iOS",
+  "description": "Assassin's Creed Mirage (в русской локализации — «Assassin's Creed: Мираж») — компьютерная игра в жанре action-adventure, разработанная студией Ubisoft Bordeaux и изданная Ubisoft. Является тринадцатой крупной частью серии Assassin's Creed. Изначально, проект задумывался как сюжетное дополнение для предыдущей части серии, Assassin's Creed Valhalla, однако в процессе разработки он эволюционировал в самостоятельную игру. Геймплей игры был вдохновлён первой частью серии Assassin's Creed, и, по словам разработчиков, в ходе разработки основное внимание уделялось стелсу, паркуру и убийствам.",
+  "rate": 76,
+  "age": "17",
+  "year": "2023",
+  "trailer": "https://www.youtube.com/embed/IRNOoOYVn80?si=FWrVIbaRWkcqXbR-",
+  "comms": [],
+  "__v": 9,
+  "updatedAt": {
+    "$date": "2024-05-29T12:32:37.661Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665499186b1308d111266bd6"
+  },
+  "title": "The Legend of Zelda: Tears of the Kingdom",
+  "image": "https://i.playground.ru/p/zxLh2763pvF83iIqupuYLg.png",
+  "platphorms": "Switch",
+  "description": "Сюжет игры рассказывает о неизвестном периоде времени после событий Breath of the Wild. В Хайруле вновь мир, и жители королевства смогли какое-то время заняться его реставрацией. Однако появляется неизвестное вещество, называемое миазмы, которое вызывает болезни и беспокоит жителей королевства. Линк и принцесса Зельда отправляются в глубины замка, где возникло это вещество.",
+  "rate": 97,
+  "age": "12",
+  "year": "2023",
+  "trailer": "https://www.youtube.com/embed/uHGShqcAHlQ?si=zRhJC8H2dcz_Xwu8",
+  "comms": [],
+  "__v": 1,
+  "updatedAt": {
+    "$date": "2024-05-29T11:38:50.405Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665333186b1308d111266bd2"
+  },
+  "title": "GTA V",
+  "image": "https://www.w-dog.ru/wallpapers/7/6/474309138095272/grand-theft-auto-v-gta-5-franklin-majkl-trevor-ron-lamar-vaskes-dzhimmi-trejsi-lester-chop.jpg",
+  "platphorms": "ПК, PS, Xbox",
+  "description": "Grand Theft Auto 5 (GTA V) - это открытый мир, экшен-приключенческая игра, в которой игрок управляет тремя персонажами: Майклом, Франклином и Тревором. Они работают вместе, чтобы выполнить различные миссии и задания, связанные с криминальным миром Лос-Сантоса (фиктивный город, основанный на Лос-Анджелесе). Игрок может свободно перемещаться по городу, путешествуя на автомобилях, мотоциклах, велосипедах, лодках, вертолетах и самолетах.",
+  "rate": 98,
+  "age": "18",
+  "year": "2013",
+  "trailer": "https://www.youtube.com/embed/QkkoHAzjnUs?si=-oN2hcLU5Sk8m_ZE",
+  "comms": []
+}]
